@@ -1,2 +1,12 @@
-# devops-labs
-labs for my devops course
+# lab3
+внутри build ничего особо содержательного не происходит (я потом даже не использую в nodejs свой сгенеренный файл, но мог бы), весь выход сборки лежит в public
+# запуск 
+
+```
+docker-compose build
+```
+```
+docker-compose up
+```
+
+
